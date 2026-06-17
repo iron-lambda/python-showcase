@@ -1,6 +1,6 @@
 # python-showcase
 
-[![Language](https://img.shields.io/badge/language-Python-yellow)]
+![Language](https://img.shields.io/badge/language-Python-yellow)
 
 [English](README.md) | [中文](README.zh-CN.md)
 
